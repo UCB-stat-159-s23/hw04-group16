@@ -12,8 +12,8 @@ All members worked on building the GitHub Repository Structure. The following ar
 - 
 - 
 ## Prasann
-- 
-- 
+- completed Makefile and repo organization tasks 
+- helped with continuous integration github actions
 
 
 s
