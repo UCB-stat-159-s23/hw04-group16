@@ -6,8 +6,8 @@ All members worked on building the GitHub Repository Structure. The following ar
 - 
 - 
 ## Avery
-- 
-- 
+- completed the creating utils.py, adding plotting utilities, and testing utils.py questions
+- simple debugging
 ## Claire
 - 
 - 
